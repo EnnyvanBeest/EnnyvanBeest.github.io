@@ -7,7 +7,7 @@ excerpt: 'The striatum, the main input nucleus of the basal ganglia, receives to
 date: 2024-09-20
 venue: 'iScience'
 paperurl: 'https://www.cell.com/iscience/fulltext/S2589-0042(24)01978-3'
-citation: 'van Beest et al. (2024). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Enny H van Beest, Mohammed AO Abdelwahab, J Leonie Cazemier, Chrysiida Baltira, M Cassandra Maes, Brandon D Peri, Matthew W Self, Ingo Willuhn, Pieter R Roelfsema (2024). &quot;The direct and indirect pathways of the basal ganglia antagonistically influence cortical activity and perceptual decisions.&quot; <i>iScience 1</i>. 1(3).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
