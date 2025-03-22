@@ -7,7 +7,7 @@ excerpt: 'Deep-brain stimulation (DBS) is an effective treatment for patients su
 date: 2023-09-04
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-023-41026-x'
-citation: 'Bastijn JG van den Boom, Alfredo Elhazaz-Fernandez, Peter A Rasmussen, Enny H van Beest, Aishwarya Parthasarathy, Damiaan Denys, Ingo Willuhn (2023). &quot;Unraveling the mechanisms of deep-brain stimulation of the internal capsule in a mouse model.&quot; <i>Nature communications 1</i>.'
+citation: 'Bastijn JG van den Boom, Alfredo Elhazaz-Fernandez, Peter A Rasmussen, Enny H van Beest, Aishwarya Parthasarathy, Damiaan Denys, Ingo Willuhn (2023). &quot;Unraveling the mechanisms of deep-brain stimulation of the internal capsule in a mouse model.&quot; <i>Nature communications</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
