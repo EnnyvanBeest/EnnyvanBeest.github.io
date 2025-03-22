@@ -1,0 +1,13 @@
+---
+title: "Tracking neurons across days with high-density probes"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-09-27-tracking-neurons-high-density-probes
+excerpt: 'Neural activity spans multiple time scales, from milliseconds to months. Its evolution can be recorded with chronic high-density arrays such as Neuropixels probes, which can measure each spike at tens of sites and record hundreds of neurons. These probes produce vast amounts of data that require different approaches for tracking neurons across recordings. Here, to meet this need, we developed UnitMatch, a pipeline that operates after spike sorting, based only on each unit’s average spike waveform. We tested UnitMatch in Neuropixels recordings from the mouse brain, where it tracked neurons across weeks. Across the brain, neurons had distinctive inter-spike interval distributions. Their correlations with other neurons remained stable over weeks. In the visual cortex, the neurons’ selectivity for visual stimuli remained similarly stable. In the striatum, however, neuronal responses changed across days during learning of a task. UnitMatch is thus a promising tool to reveal both invariance and plasticity in neural activity across days.'
+date: 2024-09-27
+venue: 'Nature Methods'
+paperurl: 'https://www.nature.com/articles/s41592-024-02440-1'
+citation: 'van Beest, Bimbard et al. (2024). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
