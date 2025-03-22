@@ -7,7 +7,7 @@ excerpt: 'Neuronal response to sensory stimuli depends on the context. The respo
 date: 2019-12-16
 venue: 'Current Biology'
 paperurl: 'https://www.cell.com/current-biology/fulltext/S0960-9822(19)31377-6'
-citation: 'Joris Vangeneugden, Enny H van Beest, Michael X Cohen, Jeannette AM Lorteije, Sreedeep Mukherjee, Lisa Kirchberger, Jorrit S Montijn, Premnath Thamizharasu, Daniela Camillo, Christiaan N Levelt, Pieter R Roelfsema, Matthew W Self, J Alexander Heimel (2019). &quot;Activity in lateral visual areas contributes to surround suppression in awake mouse V1.&quot; <i>Current Biology 1</i>. 1(2).'
+citation: 'Joris Vangeneugden, Enny H van Beest, Michael X Cohen, Jeannette AM Lorteije, Sreedeep Mukherjee, Lisa Kirchberger, Jorrit S Montijn, Premnath Thamizharasu, Daniela Camillo, Christiaan N Levelt, Pieter R Roelfsema, Matthew W Self, J Alexander Heimel (2019). &quot;Activity in lateral visual areas contributes to surround suppression in awake mouse V1.&quot; <i>Current Biology 1</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

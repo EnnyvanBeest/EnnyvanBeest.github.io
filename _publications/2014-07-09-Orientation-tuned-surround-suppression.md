@@ -7,7 +7,7 @@ excerpt: 'The firing rates of neurons in primary visual cortex (V1) are suppress
 date: 2014-07-09
 venue: 'Journal of Neuroscience'
 paperurl: 'https://www.jneurosci.org/content/jneuro/34/28/9290.full.pdf'
-citation: 'Matthew W Self, Jeannette AM Lorteije, Joris Vangeneugden, Enny H van Beest, Mihaela E Grigore, Christiaan N Levelt, J Alexander Heimel, Pieter R Roelfsema. (2014). &quot;Orientation-Tuned Surround Suppression in Mouse Visual Cortex.&quot; <i>Journal of Neuroscience 1</i>. 1(1).'
+citation: 'Matthew W Self, Jeannette AM Lorteije, Joris Vangeneugden, Enny H van Beest, Mihaela E Grigore, Christiaan N Levelt, J Alexander Heimel, Pieter R Roelfsema. (2014). &quot;Orientation-Tuned Surround Suppression in Mouse Visual Cortex.&quot; <i>Journal of Neuroscience 1</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

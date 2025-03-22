@@ -7,7 +7,7 @@ excerpt: 'The representation of space in mouse visual cortex was thought to be r
 date: 2021-06-29
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-24311-5'
-citation: 'Enny H van Beest, Sreedeep Mukherjee, Lisa Kirchberger, Ulf H Schnabel, Chris van der Togt, Rob RM Teeuwen, Areg Barsegyan, Arne F Meyer, Jasper Poort, Pieter R Roelfsema, Matthew W Self (2021). &quot;Mouse visual cortex contains a region of enhanced spatial resolution.&quot; <i>Nature communications 1</i>. 1(3).'
+citation: 'Enny H van Beest, Sreedeep Mukherjee, Lisa Kirchberger, Ulf H Schnabel, Chris van der Togt, Rob RM Teeuwen, Areg Barsegyan, Arne F Meyer, Jasper Poort, Pieter R Roelfsema, Matthew W Self (2021). &quot;Mouse visual cortex contains a region of enhanced spatial resolution.&quot; <i>Nature communications 1</i>. '
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
