@@ -3,7 +3,7 @@ title: "Private tutor"
 collection: teaching
 type: "private tutor"
 permalink: /teaching/2010-PrivateTutor-4
-venue: "Private"
+venue: "StudentsPlus"
 date: 2010-09-01
 location: "Amsterdam, The Netherlands"
 ---
