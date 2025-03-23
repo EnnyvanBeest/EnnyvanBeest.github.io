@@ -10,4 +10,3 @@ paperurl: 'https://www.nature.com/articles/s41592-024-02440-1'
 citation: 'Enny H van Beest, Célian Bimbard, Julie MJ Fabre, Sam W Dodgson, Flóra Takács, Philip Coen, Anna Lebedeva, Kenneth D Harris, Matteo Carandini (2024). &quot;Tracking neurons across days with high-density probes.&quot; <i>Nature Methods</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

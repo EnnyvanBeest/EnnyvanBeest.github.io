@@ -9,5 +9,3 @@ venue: 'Science advances'
 paperurl: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.science.org/doi/pdf/10.1126/sciadv.abe1833'
 citation: 'Lisa Kirchberger, Sreedeep Mukherjee, Ulf H Schnabel, Enny H van Beest, Areg Barsegyan, Christiaan N Levelt, J Alexander Heimel, Jeannette AM Lorteije, Chris van der Togt, Matthew W Self, Pieter R Roelfsema (2021). &quot;The essential role of recurrent processing for figure-ground perception in mice.&quot; <i>Science advances</i>. '
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

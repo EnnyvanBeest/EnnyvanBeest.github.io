@@ -100,8 +100,8 @@ Conference abstracts
   
 Symposia organized
 ======
-* Nanosymposium: Circuit dynamics across brain regions during navigation. Organizer and chair - Society for Neuroscience (2024).
-* Symposium: Perception and behavior in a variable world. Organizer and chair - Netherlands Institute for Neuroscience (2023).
+* 2024: Nanosymposium: Circuit dynamics across brain regions during navigation. Organizer and chair - Society for Neuroscience.
+* 2023: Symposium: Perception and behavior in a variable world. Organizer and chair - Netherlands Institute for Neuroscience.
 
 Professional service
 ======
