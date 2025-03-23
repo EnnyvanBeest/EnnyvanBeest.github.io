@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Thanks for visiting my website. 
-
 I am a neuroscientist interested in the distributed coding of cognitive tasks. I work as a senior research associate on the distributed coding of spatial navigation in the shared lab of Professors Matteo Carandini and Kenneth Harris at University College London. I also developed [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch), software to track individual neurons across longitudinal recordings with high-density probes, such as Neuropixels. 
 
 During my PhD-training at the Netherlands Institute for Neuroscience with Professor Roelfsema, Professor Willuhn, and Dr. Self, I studied the distributed coding of visual perception and (delayed) decision-making. 
 
 I aspire to head a research group studying the unique and shared mechanisms of different cognitive tasks using behavioral, experimental, and computational neuroscience techniques. 
-
-22-03-2025 - This website is still under construction. 

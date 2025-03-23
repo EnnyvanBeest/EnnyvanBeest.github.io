@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Neuroscience - Free University Amsterdam, 2015-2020 (defended 2023)
-* M.Sc. in Research Master Brain and Cognitive Sciences, University of Amsterdam, 2013-2015
-* B.Sc. in Psychobiology, University of Amsterdam, 2010-2013
+* PhD in Neuroscience - Free University Amsterdam, 2015-2020 (defended 2023)
+* MSc in Research Master Brain and Cognitive Sciences, University of Amsterdam, 2013-2015
+* BSc in Psychobiology, University of Amsterdam, 2010-2013
 
 Work experience
 ======
@@ -105,13 +105,19 @@ Symposia organized
 
 Professional service
 ======
+* 2021-2025: Daily supervision of three bachelor and three (integrated) master students for their research projects, University College London (3 - 6 months each).
 * 2025: Mentor for Institute of Ophthalmology/ear institute mentoring scheme (UCL)
 * 2025: Event manager/host for Pint of Science - team 'beautiful mind', London
 * 2024: Abstracts reviewer for Cosyne 2025
 * 2024: Reviewer for Nature Protocols
+* 2022-2024: In2Science: co-supervision of talented high school students for 1 week during the summer
+* 2021-2024: Mentor for Neuromatch Academy
 * 2023-2024: Hiring committee(s) member, obtained fair and inclusive recruitment certificate
+* 2021: Science is wonderful! Science education initiative of the European Commission. Online lecture for primary school students. Title: We see with our brain!
+* 2016: Weekend school educational program for kids, aged 10-14. Workshop: Visual perception and the brain game.
 * 2015-2020: Treasurer Alumni Network and Cognitive Sciences, University of Amsterdam
 * 2017-2020: President of the Social Committee, Netherlands Institute for Neuroscience
+* 2015-2020: Daily supervision of three bachelor and three master students for their research projects, Netherlands Institute for Neuroscience (5 – 10 months each).
 
 Attended conferences, symposia, and schools
 ======
