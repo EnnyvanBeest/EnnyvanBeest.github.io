@@ -15,4 +15,6 @@ I aspire to head a research group studying the unique and shared mechanisms of d
 
 <p align="center">
   <img src="assets/images/Illustratie.png" alt="(c) Dieuwbieus" style="width: 100%; height: auto; margin-top: 2em;">
+  <br>
+  <small><em>Illustration by [Dieuwbieus](https://www.dieuwbieus.nl/) commissioned by Enny H. van Beest</em></small>
 </p>
