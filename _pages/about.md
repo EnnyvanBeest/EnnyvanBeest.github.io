@@ -13,7 +13,7 @@ During my PhD-training at the Netherlands Institute for Neuroscience with Profes
 
 I aspire to head a research group studying the unique and shared mechanisms of different cognitive tasks using behavioral, experimental, and computational neuroscience techniques. 
 
-<p align="center">
+<p align="left">
   <img src="/images/Illustratie.png" alt="(c) Dieuwbieus" style="width: 100%; height: auto; margin-top: 2em;">
   <br>
   <small><em>Illustration by <a href="https://www.dieuwbieus.nl/" target="_blank">Dieuwbieus</a>, commissioned by Enny H. van Beest</em></small>
