@@ -50,6 +50,7 @@ Work experience
   
 Awards and prizes
 ======
+* 2025: UCL Institute of Ophthalmology Research Excellence Award - Winner
 * 2024: UCL open science award: open-source software - Honourable mention
 * 2024: Shortlisted for UCL Inclusion Award: Award for EDI Excellence
 * 2023: GEMM grant for the generation of a novel genetically altered mouse line - MRC Harwell
