@@ -85,6 +85,9 @@ Teaching
 
 Conference abstracts
 ======
+* 2025: SfN. Poster: Spatial navigation engages a distributed brain-wide neural representation - US
+* 2025: CCN (Cognitive Computational Neuroscience). Poster: Spatial navigation engages a distributed neural representation - NL
+* 2025: UK Neural Computation. Poster: Spatial navigation engages a distributed neural representation - UK
 * 2025: Cosyne. Poster (shared last author): Tracking neurons across days in chronic electrophysiological recordings with Deep Neural Networks - CA
 * 2024: SfN. Nanosymposium talk: Spatial modulation of sensory activity in multiple brain regions - USA
 * 2024: iNav. Poster: Spatial modulation of sensory activity in multiple brain regions - ITA
@@ -106,7 +109,8 @@ Symposia organized
 
 Professional service
 ======
-* 2021-2025: Daily supervision of three bachelor and three (integrated) master students for their research projects, University College London (3 - 6 months each).
+* 2025: Member of a faculty-wide committee to improve open science practises through the design and delivery of workshops. Department representative
+* 2021-2025: Daily supervision of three bachelor and three (integrated) master students for their research projects, University College London (3 - 6 months each)
 * 2025: Mentor for Institute of Ophthalmology/ear institute mentoring scheme (UCL)
 * 2025: Event manager/host for Pint of Science - team 'beautiful mind', London
 * 2024: Abstracts reviewer for Cosyne 2025
@@ -115,10 +119,10 @@ Professional service
 * 2021-2024: Mentor for Neuromatch Academy
 * 2023-2024: Hiring committee(s) member, obtained fair and inclusive recruitment certificate
 * 2021: Science is wonderful! Science education initiative of the European Commission. Online lecture for primary school students. Title: We see with our brain!
-* 2016: Weekend school educational program for kids, aged 10-14. Workshop: Visual perception and the brain game.
+* 2016: Weekend school educational program for kids, aged 10-14. Workshop: Visual perception and the brain game
 * 2015-2020: Treasurer Alumni Network and Cognitive Sciences, University of Amsterdam
 * 2017-2020: President of the Social Committee, Netherlands Institute for Neuroscience
-* 2015-2020: Daily supervision of three bachelor and three master students for their research projects, Netherlands Institute for Neuroscience (5 – 10 months each).
+* 2015-2020: Daily supervision of three bachelor and three master students for their research projects, Netherlands Institute for Neuroscience (5 – 10 months each)
 
 Attended conferences, symposia, and schools
 ======
