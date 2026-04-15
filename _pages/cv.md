@@ -85,6 +85,7 @@ Teaching
 
 Conference abstracts
 ======
+* 2026: FENS. Poster: Spatial navigation engages a distributed neural representation - Spain
 * 2025: SfN. Poster: Spatial navigation engages a distributed brain-wide neural representation - US
 * 2025: CCN (Cognitive Computational Neuroscience). Poster: Spatial navigation engages a distributed neural representation - NL
 * 2025: UK Neural Computation. Poster: Spatial navigation engages a distributed neural representation - UK
