@@ -50,6 +50,7 @@ Work experience
   
 Awards and prizes
 ======
+* 2027: Distinguished speaker for MIT brain and cognitive sciences 'Rising Star' series 
 * 2025: UCL Institute of Ophthalmology Research Excellence Award - Winner
 * 2024: UCL open science award: open-source software - Honourable mention
 * 2024: Shortlisted for UCL Inclusion Award: Award for EDI Excellence
@@ -110,15 +111,17 @@ Symposia organized
 
 Professional service
 ======
+* 2025-2027: UCL coordinator for Pint of Science UK - managing multiple organizing teams
+* 2025-2026: Mentor for Institute of Ophthalmology/ear institute mentoring scheme (UCL)
+* 2021-2026: Mentor for Neuromatch Academy - Computational Neuroscience (3 summers)
+* 2024-2026: Abstracts reviewer for Cosyne 2025 & 2026 (selective conference)
+* 2024-2026: Reviewer for Nature Protocols & eLife
+* 2023-2026: Hiring committee(s) member, obtained fair and inclusive recruitment certificate
+* 2025: 'Meet the expert' (as expert) at Neuropixels booth - Society for Neuroscience 
 * 2025: Member of a faculty-wide committee to improve open science practises through the design and delivery of workshops. Department representative
-* 2021-2025: Daily supervision of three bachelor and three (integrated) master students for their research projects, University College London (3 - 6 months each)
-* 2025: Mentor for Institute of Ophthalmology/ear institute mentoring scheme (UCL)
+* 2021-2026: Daily supervision of bachelor and (integrated) master students for their research projects, University College London (3 - 6 months each)
 * 2025: Event manager/host for Pint of Science - team 'beautiful mind', London
-* 2024: Abstracts reviewer for Cosyne 2025
-* 2024: Reviewer for Nature Protocols
 * 2022-2024: In2Science: co-supervision of talented high school students for 1 week during the summer
-* 2021-2024: Mentor for Neuromatch Academy
-* 2023-2024: Hiring committee(s) member, obtained fair and inclusive recruitment certificate
 * 2021: Science is wonderful! Science education initiative of the European Commission. Online lecture for primary school students. Title: We see with our brain!
 * 2016: Weekend school educational program for kids, aged 10-14. Workshop: Visual perception and the brain game
 * 2015-2020: Treasurer Alumni Network and Cognitive Sciences, University of Amsterdam
